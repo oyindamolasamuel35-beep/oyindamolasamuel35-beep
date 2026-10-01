@@ -18,21 +18,17 @@ I'm a Computer Science student passionate about building useful digital products
 ### 📱 Osun Ride
 A ride-hailing application designed to connect passengers and drivers in Osun State.
 
+## 🚀 Featured Project
+
 ### 🏛️ CivicLens
-A platform designed to help users discover, understand, and compare information about political leaders.
 
-### 📊 Smartlogger
-An attendance management system designed to simplify attendance tracking and management.
+A digital platform designed to help users discover, understand, and compare information about political leaders.
 
-### 💳 FlowPay
-A fintech application concept focused on creating a simple and accessible digital payment experience.
-## 👨🏽‍💻 About Me
+**My Role:** UI/UX Designer & Software Developer
 
-I'm currently studying Computer Science and developing my skills in software development and UI/UX design.
+**Focus:** User Research • Information Architecture • UX Design • Web Development
 
-I enjoy turning ideas into digital products, exploring new technologies, and solving real-world problems through technology.
-
-I'm continuously learning, building projects, and improving my ability to create both functional and user-friendly experiences.
+[View Project →](https://github.com/oyindamolasamuel35-beep/civiclens)
 
 ## 📫 Connect With Me
 
