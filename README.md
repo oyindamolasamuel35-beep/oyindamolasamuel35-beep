@@ -39,3 +39,7 @@ I'm continuously learning, building projects, and improving my ability to create
 - 💼 LinkedIn: Samuel Oyindamola
 - 🐦 X: 
 - 📧 Email: oyindamolasamuel35@gmail.com 
+
+## 📊 GitHub Stats
+
+![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=oyindamolasamuel35-beep&show_icons=true&theme=default)
